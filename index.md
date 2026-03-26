@@ -1,7 +1,7 @@
 The Starting Position
 ========================================
 
-> [(What is this?)](README)
+> [(What is this?)](info)
 
 	R N B Q K B N R
 	P P P P P P P P

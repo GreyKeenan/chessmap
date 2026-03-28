@@ -1,5 +1,6 @@
-The Little Scandinavian, 1.e4 d5 2.e5
+The Little Scandinavian
 ========================================
+> 1.e4 d5 2.e5
 
     r n b q k b n r
     p p p . p p p p

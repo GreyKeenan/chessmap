@@ -1,5 +1,6 @@
-The English Opening, 1.c4
+The English Opening
 ========================================
+> 1.c4
 
 	r n b q k b n r
 	p p p p p p p p

@@ -16,7 +16,7 @@ Continuations
 * [Nf6, An Indian Defense](rnbqkb-r_pppppppp_-----n--_--------_---P----_--------_PPP-PPPP_RNBQKBNR)
 * [f5, The Dutch](rnbqkbnr_ppppp-pp_--------_-----p--_---P----_--------_PPP-PPPP_RNBQKBNR)
   \*\**
-* [c6, Karo-Cann Transfer](rnbqkbnr_pp-ppppp_--p-----_--------_---P----_--------_PPP-PPPP_RNBQKBNR)
+* [c6, Caro-Kann Transfer](rnbqkbnr_pp-ppppp_--p-----_--------_---P----_--------_PPP-PPPP_RNBQKBNR)
 * [c5, The Old Benoni](rnbqkbnr_pp-ppppp_--------_--p-----_---P----_--------_PPP-PPPP_RNBQKBNR)
   *
 * [e5?!, The Englund Gambit](rnbqkbnr_pppp-ppp_--------_----p---_---P----_--------_PPP-PPPP_RNBQKBNR)

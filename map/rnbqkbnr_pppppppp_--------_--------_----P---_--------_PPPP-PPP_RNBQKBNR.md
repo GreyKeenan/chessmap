@@ -1,5 +1,6 @@
-The King's Pawn Game, 1.e4
+The King's Pawn Game
 ========================================
+> 1.e4
 
 	r n b q k b n r
 	p p p p p p p p

@@ -21,5 +21,5 @@ Continuations
   \**
 * [b5?!, The Halibut Gambit](rnbqkbnr_p-pppppp_--------_-p------_--P-----_--------_PP-PPPPP_RNBQKBNR)
   \**
-* [a3?!](rnbqkbnr_-ppppppp_p-------_--------_--P-----_--------_PP-PPPPP_RNBQKBNR)
+* [a6?!](rnbqkbnr_-ppppppp_p-------_--------_--P-----_--------_PP-PPPPP_RNBQKBNR)
   \**

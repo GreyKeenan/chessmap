@@ -9,9 +9,10 @@
     . . . . . . . .
     P P P P . P P P
     R N B Q K B N R
+    (w)
 
 Continuations
 
-* [c3](rnbqkbnr_pp--pppp_--------_--ppP---_--------_--P-----_PP-P-PPP_RNBQKBNR)
-* [d4](rnbqkbnr_pp--pppp_--------_--ppP---_---P----_--------_PPP--PPP_RNBQKBNR)
+* [c3](rnbqkbnr_pp--pppp_--------_--ppP---_--------_--P-----_PP-P-PPP_RNBQKBNR_b)
+* [d4](rnbqkbnr_pp--pppp_--------_--ppP---_---P----_--------_PPP--PPP_RNBQKBNR_b)
 * ...

@@ -9,4 +9,5 @@ Anderssen's Opening, 1.a3
 	P . . . . . . .
 	. P P P P P P P
 	R N B Q K B N R
+    (b)
 

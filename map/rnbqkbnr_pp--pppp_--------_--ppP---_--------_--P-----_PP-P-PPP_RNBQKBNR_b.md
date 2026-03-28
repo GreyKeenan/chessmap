@@ -9,7 +9,8 @@
     . . P . . . . .
     P P . P . P P P
     R N B Q K B N R
+    (b)
 
 * ...
-* [Qa5!?, eppur si muove](rnb-kbnr_pp--pppp_--------_q-ppP---_--------_--P-----_PP-P-PPP_RNBQKBNR)
+* [Qa5!?, eppur si muove](rnb-kbnr_pp--pppp_--------_q-ppP---_--------_--P-----_PP-P-PPP_RNBQKBNR_w)
   *

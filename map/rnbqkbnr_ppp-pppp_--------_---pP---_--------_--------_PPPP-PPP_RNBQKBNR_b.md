@@ -13,6 +13,6 @@
 
 * [c5](rnbqkbnr_pp--pppp_--------_--ppP---_--------_--------_PPPP-PPP_RNBQKBNR_w)
   *
-* [Bf5](rn-qkbnr_ppp-pppp_--------_---pPb--_--------_--------_PPPP-PPP_RNBQKBNR_w)
-* [e6, Advanced-French transfer](rnbqkbnr_ppp--ppp_----p---_---pP---_--------_--------_PPPP-PPP_RNBQKBNR_w)
+* Bf5
+* e6, French transposition
 

@@ -62,6 +62,7 @@ Unnamed lines will simply omit the name.
 Below the lines will be a bulleted list of next moves,
 each linking to the file corresponding the resulting position,
 if that file exists.
+If the file does not exist yet, try not to leave a dangling link.
 
 If the move has a name, the name should be listed, eg:
 

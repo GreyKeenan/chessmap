@@ -12,5 +12,5 @@
 > 1.e4 d5 2.e5 c5
 
 * [c3](rnbqkbnr_pp--pppp_--------_--ppP---_--------_--P-----_PP-P-PPP_RNBQKBNR_b)
-* [d4](rnbqkbnr_pp--pppp_--------_--ppP---_---P----_--------_PPP--PPP_RNBQKBNR_b)
+* d4
 * ...

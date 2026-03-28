@@ -17,5 +17,6 @@
   *
 * [c6, The Blackburne-Kloosterboer Gambit](rnbqkbnr_pp--pppp_--p-----_---P----_--------_--------_PPPP-PPP_RNBQKBNR_w)
   \**
-* [e5, The Boehnke Gambit](rnbqkbnr_ppp--ppp_----p---_---P----_--------_--------_PPPP-PPP_RNBQKBNR_w)
+* [e5, The Boehnke Gambit](rnbqkbnr_ppp--ppp_--------_---Pp---_--------_--------_PPPP-PPP_RNBQKBNR_we)
   \**
+

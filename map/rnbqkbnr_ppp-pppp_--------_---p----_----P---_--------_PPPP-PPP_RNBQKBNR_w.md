@@ -1,6 +1,3 @@
-The Scandinavian Defense
-========================================
-> 1.e4 d5
 
 	r n b q k b n r
 	p p p . p p p p
@@ -12,7 +9,7 @@ The Scandinavian Defense
 	R N B Q K B N R
 	(w)
 
-Continuations
+> The Scandinavian Defense: 1.e4 e5
 
 * [exd5!](rnbqkbnr_ppp-pppp_--------_---P----_--------_--------_PPPP-PPP_RNBQKBNR_b)
 * [e5==, The Little Scandinavian](rnbqkbnr_ppp-pppp_--------_---pP---_--------_--------_PPPP-PPP_RNBQKBNR_b)

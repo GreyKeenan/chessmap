@@ -1,6 +1,3 @@
-The English Opening
-========================================
-> 1.c4
 
 	r n b q k b n r
 	p p p p p p p p
@@ -12,7 +9,7 @@ The English Opening
 	R N B Q K B N R
     (b)
 
-Continuations
+> The English Opening: 1.c4
 
 * [e5, The Reverse Sicilian](rnbqkbnr_pppp-ppp_--------_----p---_--P-----_--------_PP-PPPPP_RNBQKBNR_w)
   \**

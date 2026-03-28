@@ -1,5 +1,3 @@
-The Scandinavian Defense, 1.d4 e5 2.exd5
-========================================
 
 	r n b q k b n r
 	p p p . p p p p
@@ -11,7 +9,7 @@ The Scandinavian Defense, 1.d4 e5 2.exd5
 	R N B Q K B N R
     (b)
 
-Continuations
+> 1.e4 d5 2.exd5
 
 * [Nf6, The Modern Scandinavian](rnbqkb-r_ppp-pppp_-----n--_---P----_--------_--------_PPPP-PPP_RNBQKBNR_w)
   \**

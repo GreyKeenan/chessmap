@@ -1,6 +1,3 @@
-The Little Scandinavian
-========================================
-> 1.e4 d5 2.e5
 
     r n b q k b n r
     p p p . p p p p
@@ -12,7 +9,7 @@ The Little Scandinavian
     R N B Q K B N R
     (b)
 
-Continuations
+> The Little Scandinavian: 1.e4 d5 2.e5
 
 * [c5](rnbqkbnr_pp--pppp_--------_--ppP---_--------_--------_PPPP-PPP_RNBQKBNR_w)
   *

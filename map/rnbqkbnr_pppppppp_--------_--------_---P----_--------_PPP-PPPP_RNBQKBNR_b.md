@@ -1,5 +1,3 @@
-The Queen's Pawn Game, 1.d4
-========================================
 
 	r n b q k b n r
 	p p p p p p p p
@@ -11,7 +9,7 @@ The Queen's Pawn Game, 1.d4
 	R N B Q K B N R
     (b)
 
-Continuations
+> The Queen's Pawn Game: 1.d4
 
 * [d5, The Closed Game](rnbqkbnr_ppp-pppp_--------_---p----_---P----_--------_PPP-PPPP_RNBQKBNR_w)
 * [Nf6, An Indian Defense](rnbqkb-r_pppppppp_-----n--_--------_---P----_--------_PPP-PPPP_RNBQKBNR_w)

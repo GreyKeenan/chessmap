@@ -1,6 +1,3 @@
-The Starting Position
-========================================
-> [What is this?](about)
 
 	r n b q k b n r
 	p p p p p p p p
@@ -12,7 +9,7 @@ The Starting Position
 	R N B Q K B N R
 	(w)
 
-Starting Moves:
+> The Starting Position
 
 * [e4, The King's Pawn Game](rnbqkbnr_pppppppp_--------_--------_----P---_--------_PPPP-PPP_RNBQKBNR_b)
 * [d4, The Queen's Pawn Game](rnbqkbnr_pppppppp_--------_--------_---P----_--------_PPP-PPPP_RNBQKBNR_b)

@@ -1,5 +1,3 @@
-Anderssen's Opening, 1.a3
-========================================
 
 	r n b q k b n r
 	p p p p p p p p
@@ -11,3 +9,4 @@ Anderssen's Opening, 1.a3
 	R N B Q K B N R
     (b)
 
+> Anderssen's Opening: 1.a3

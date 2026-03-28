@@ -1,6 +1,3 @@
-The Horsefly Defense
-========================================
-> 1.f4 Nh6
 
     r n b q k b . r
     p p p p p p p p
@@ -12,3 +9,4 @@ The Horsefly Defense
     R N B Q K B N R
     (w)
 
+> The Horsefly Defense: 1.f4 Nh6

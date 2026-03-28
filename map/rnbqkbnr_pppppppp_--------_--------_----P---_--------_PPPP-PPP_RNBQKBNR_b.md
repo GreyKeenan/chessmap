@@ -1,6 +1,3 @@
-The King's Pawn Game
-========================================
-> 1.e4
 
 	r n b q k b n r
 	p p p p p p p p
@@ -12,7 +9,7 @@ The King's Pawn Game
 	R N B Q K B N R
     (b)
 
-Continuations
+> The King's Pawn Game: 1.e4
 
 * [e5, The Open Game](rnbqkbnr_pppp-ppp_--------_----p---_----P---_--------_PPPP-PPP_RNBQKBNR_w)
 * [c5, The Sicilian Game](rnbqkbnr_pp-ppppp_--------_--p-----_----P---_--------_PPPP-PPP_RNBQKBNR_w)

@@ -16,7 +16,7 @@
   *
 * [e4, The English Opening](rnbqkbnr_pppppppp_--------_--------_--P-----_--------_PP-PPPPP_RNBQKBNR_b)
   \*\**
-* [Nf3, The Zukertort or Reti](rnbqkbnr_pppppppp_--------_--------_--------_-----N--_PPPPPPPP_RNBQKB-R_b)
+* [Nf3, The Zukertort Opening](rnbqkbnr_pppppppp_--------_--------_--------_-----N--_PPPPPPPP_RNBQKB-R_b)
   \*\**
 * [f4, The Bird](rnbqkbnr_pppppppp_--------_--------_-----P--_--------_PPPPP-PP_RNBQKBNR_b)
   \**

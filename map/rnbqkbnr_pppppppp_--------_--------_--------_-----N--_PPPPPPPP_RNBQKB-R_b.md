@@ -9,4 +9,4 @@
     R N B Q K B . R
     (b)
 
-> The Zukertort or Reti: 1.Nf3
+> The Zukertort: 1.Nf3

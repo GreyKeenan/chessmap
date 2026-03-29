@@ -11,11 +11,11 @@
 
 > The Queen's Pawn Game: 1.d4
 
-* d5, The Closed Game
+* [d5, The Closed Game](rnbqkbnr_ppp-pppp_--------_---p----_---P----_--------_PPP-PPPP_RNBQKBNR_w)
 * Nf6, An Indian Defense
 * f5, The Dutch
   \*\**
 * c6, Caro-Kann Transfer
 * [c5, The Old Benoni](rnbqkbnr_pp-ppppp_--------_--p-----_---P----_--------_PPP-PPPP_RNBQKBNR_w)
   *
-* e5?!, The Englund Gambit
+* [e5?!, The Englund Gambit](rnbqkbnr_pppp-ppp_--------_----p---_---P----_--------_PPP-PPPP_RNBQKBNR_w)

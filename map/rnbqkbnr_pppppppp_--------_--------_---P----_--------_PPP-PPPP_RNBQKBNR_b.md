@@ -19,3 +19,4 @@
 * [c5, The Old Benoni](rnbqkbnr_pp-ppppp_--------_--p-----_---P----_--------_PPP-PPPP_RNBQKBNR_w)
   *
 * [e5?!, The Englund Gambit](rnbqkbnr_pppp-ppp_--------_----p---_---P----_--------_PPP-PPPP_RNBQKBNR_w)
+* [d6, a Pirc transfer](rnbqkbnr_ppp-pppp_---p----_--------_---P----_--------_PPP-PPPP_RNBQKBNR_w)

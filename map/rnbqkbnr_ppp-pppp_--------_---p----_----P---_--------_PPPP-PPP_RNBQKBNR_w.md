@@ -20,3 +20,6 @@
 * f4, William's Gambit
 * Bb5+?!, The Greg Variation
 * c3?!
+
+<br>
+[rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-)

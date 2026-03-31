@@ -16,3 +16,6 @@
   \**
 * e6, declined
   *
+
+<br>
+[rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_-)

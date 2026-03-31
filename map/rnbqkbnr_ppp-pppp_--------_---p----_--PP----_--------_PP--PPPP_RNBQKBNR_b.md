@@ -21,3 +21,6 @@
 * [Nc6, The Chigorin Defense](r-bqkbnr_ppp-pppp_--n-----_---p----_--PP----_--------_PP--PPPP_RNBQKBNR_w)
   \**
 * Nf6
+
+<br>
+[rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_-)

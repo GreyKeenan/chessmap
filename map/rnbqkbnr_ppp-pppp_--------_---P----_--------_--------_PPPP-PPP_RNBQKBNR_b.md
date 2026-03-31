@@ -20,3 +20,5 @@
 * e5, The Boehnke Gambit
   \**
 
+<br>
+[rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-)

@@ -10,3 +10,6 @@
     (b)
 
 > Anderssen's Opening: 1.a3
+
+<br>
+[rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR_b_KQkq_-)

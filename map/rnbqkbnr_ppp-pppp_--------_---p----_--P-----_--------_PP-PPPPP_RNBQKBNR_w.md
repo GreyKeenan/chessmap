@@ -17,3 +17,6 @@
 * e3
 * [Nf3==, Reti transposition](rnbqkbnr_ppp-pppp_--------_---p----_--P-----_-----N--_PP-PPPPP_RNBQKB-R_b)
   \*\**
+
+<br>
+[rnbqkbnr/ppp1pppp/8/3p4/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/ppp1pppp/8/3p4/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-)

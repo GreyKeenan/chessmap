@@ -18,3 +18,5 @@
 * f5, The Symmetrical Bird
 * e4?!, From's Gambit
 
+<br>
+[rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR_b_KQkq_-)

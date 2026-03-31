@@ -22,3 +22,6 @@
 * Nf6, Alekhine's Defense
   \**
 * f4, The Duras Gambit
+
+<br>
+[rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR_b_KQkq_-)

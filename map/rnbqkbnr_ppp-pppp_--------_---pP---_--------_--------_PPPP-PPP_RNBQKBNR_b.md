@@ -16,3 +16,5 @@
 * Bf5
 * e6, French transposition
 
+<br>
+[rnbqkbnr/ppp1pppp/8/3pP3/8/8/PPPP1PPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/ppp1pppp/8/3pP3/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-)

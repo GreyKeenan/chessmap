@@ -30,3 +30,7 @@
 * h3, The Clemenz Opening
 * a4, The Ware Opening
 * h4, The Desprez or Kadas
+
+<br>
+[rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-)
+

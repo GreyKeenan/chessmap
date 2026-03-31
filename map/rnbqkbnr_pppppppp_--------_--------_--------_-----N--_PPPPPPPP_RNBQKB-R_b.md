@@ -10,3 +10,6 @@
     (b)
 
 > The Zukertort: 1.Nf3
+
+<br>
+[rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R_b_KQkq_-)

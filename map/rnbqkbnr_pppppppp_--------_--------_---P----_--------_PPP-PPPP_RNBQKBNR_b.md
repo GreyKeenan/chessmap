@@ -20,3 +20,6 @@
   *
 * [e5?!, The Englund Gambit](rnbqkbnr_pppp-ppp_--------_----p---_---P----_--------_PPP-PPPP_RNBQKBNR_w)
 * [d6, a Pirc transfer](rnbqkbnr_ppp-pppp_---p----_--------_---P----_--------_PPP-PPPP_RNBQKBNR_w)
+
+<br>
+[rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR_b_KQkq_-)

@@ -9,7 +9,9 @@
 	R N B Q K B N R
 	(w)
 
-> The Starting Position
+> [rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-)
+
+The Starting Position
 
 * [e4, The King's Pawn Game](rnbqkbnr_pppppppp_--------_--------_----P---_--------_PPPP-PPP_RNBQKBNR_b)
 * [d4, The Queen's Pawn Game](rnbqkbnr_pppppppp_--------_--------_---P----_--------_PPP-PPPP_RNBQKBNR_b)
@@ -31,5 +33,3 @@
 * a4, The Ware Opening
 * h4, The Desprez or Kadas
 
-<br>
-> *[rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-)*

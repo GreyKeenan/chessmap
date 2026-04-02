@@ -15,6 +15,9 @@
 * dxc5!
 * h4!
 
+<br>
+[r1bq1rk1/1p1nbppp/p1n1p3/2ppP3/3P1P2/2NBBN2/PPPQ2PP/R3K2R w KQkq -](https://lichess.org/analysis/fromPosition/r1bq1rk1/1p1nbppp/p1n1p3/2ppP3/3P1P2/2NBBN2/PPPQ2PP/R3K2R_w_KQkq_-)
+
 ---
 
 The move played in the game here was O-O.

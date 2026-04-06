@@ -11,7 +11,7 @@
 
 > The Anglo-Scandinavian: 1.c4 d5
 
-* cxd5!
+* [cxd5!](rnbqkbnr_ppp-pppp_--------_---P----_--------_--------_PP-PPPPP_RNBQKBNR_b)
 * [d4, Queen's Gambit transposition](rnbqkbnr_ppp-pppp_--------_---p----_--PP----_--------_PP--PPPP_RNBQKBNR_b)
   \*\**
 * e3

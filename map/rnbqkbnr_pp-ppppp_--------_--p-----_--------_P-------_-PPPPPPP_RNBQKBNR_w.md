@@ -11,7 +11,11 @@
 
 > Anderssen's English Opening or Sicilian transfer: 1.a3 c5
 
-* e4, Mengarini Sicilian transposition
+* [e4, Mengarini Sicilian transposition](rnbqkbnr_pp-ppppp_--------_--p-----_----P---_P-------_-PPP-PPP_RNBQKBNR_b)
+  \**
+* [b4, Birmingham Gambit Declined transposition](rnbqkbnr_pp-ppppp_--------_--p-----_-P------_P-------_--PPPPPP_RNBQKBNR_b)
+  \**
+* [d4, (And. Anglo-Scandinavian)](rnbqkbnr_pp-ppppp_--------_--p-----_---P----_P-------_-PP-PPPP_RNBQKBNR_b)
   \**
 
 <br>

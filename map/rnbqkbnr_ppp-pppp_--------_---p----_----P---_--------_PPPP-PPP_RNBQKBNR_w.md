@@ -13,12 +13,14 @@
 
 * [exd5!](rnbqkbnr_ppp-pppp_--------_---P----_--------_--------_PPPP-PPP_RNBQKBNR_b)
 * [e5==, The Little Scandinavian](rnbqkbnr_ppp-pppp_--------_---pP---_--------_--------_PPPP-PPP_RNBQKBNR_b)
-* d4, The Blackmar-Diemer Gambit
+* [d4, The Blackmar-Diemer Gambit](rnbqkbnr_ppp-pppp_--------_---p----_---PP---_--------_PPP--PPP_RNBQKBNR_b)
   \*\**
 * Nf3, The Tennison Gambit
 * Nc3, van Geet transposition
 * f4, William's Gambit
 * Bb5+?!, The Greg Variation
+* d3?!
+* f3?!
 * c3?!
 
 <br>

@@ -20,9 +20,9 @@
   \*\**
 * [f4, The Bird](rnbqkbnr_pppppppp_--------_--------_-----P--_--------_PPPPP-PP_RNBQKBNR_b)
   \**
-* b4, The Polish Opening
 * [a3, Anderssen's Opening](rnbqkbnr_pppppppp_--------_--------_--------_P-------_-PPPPPPP_RNBQKBNR_b)
   \**
+* [b4, The Polish Opening](rnbqkbnr_pppppppp_--------_--------_-P------_--------_P-PPPPPP_RNBQKBNR_b)
 * Nc3, The van Geet Opening
 * b3, The Larsen Opening
 * g3, The Hungarian Opening

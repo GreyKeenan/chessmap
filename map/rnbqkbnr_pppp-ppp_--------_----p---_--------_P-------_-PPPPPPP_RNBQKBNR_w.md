@@ -11,7 +11,7 @@
 
 > Anderssen's King's Pawn Opening: 1.a3 e5
 
-* e4, Mengarini's Opening transposition
+* [e4, Mengarini's Opening transposition](rnbqkbnr_pppp-ppp_--------_----p---_----P---_P-------_-PPP-PPP_RNBQKBNR_b)
 * d4, (And. Scandinavian Defense)
   *
 * c4, (And. Sicilian Game)

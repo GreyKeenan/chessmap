@@ -11,7 +11,7 @@
 
 > The King's Pawn Game: 1.e4
 
-* e5, The Open Game
+* [e5, The Open Game](rnbqkbnr_pppp-ppp_--------_----p---_----P---_--------_PPPP-PPP_RNBQKBNR_w)
 * c5, The Sicilian Game
 * c6, The Caro-Kann
 * [d5, The Scandinavian Defense](rnbqkbnr_ppp-pppp_--------_---p----_----P---_--------_PPPP-PPP_RNBQKBNR_w)

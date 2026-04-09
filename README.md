@@ -5,9 +5,11 @@ My personal map of the opening.
 
 Each file in `/map/` corresponds to some position on the board.
 File names are given in an FEN-inspired format,
-but simplified so that I can parse automate easily using vim macros:
+but with extra information truncated.
 
-	rnbqkbnr_pppppppp_--------_--------_--------_--------_PPPPPPPP_w
+	old style: rnbqkbnr_pppppppp_--------_--------_--------_--------_PPPPPPPP_w
+
+	current style: rnbqkbnrpppppppp8888PPPPPPPPw
 
 This is the starting position.
 (Black is lowercase.)
@@ -15,7 +17,7 @@ The `w` indicates whose turn it is to move, and may also be a `b`.
 An optional additional trailing character may indicate
 some file on which en-passant is possible, as in the Boehnke Gambit position:
 
-	rnbqkbnr_ppp--ppp_--------_---Pp---_--------_--------_PPPP-PPP_RNBQKBNR_we
+	rnbqkbnrppp2ppp83Pp388PPPP1PPPRNBQKBNRwe
 
 Finally, `.md` is appended to the end of the file name
 so that github-pages will convert the files to html.

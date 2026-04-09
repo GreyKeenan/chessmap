@@ -11,7 +11,7 @@
 
 > The Closed Game: 1.d4 d5
 
-* [c4, The Queen's Gambit](rnbqkbnr_ppp-pppp_--------_---p----_--PP----_--------_PP--PPPP_RNBQKBNR_b)
+* [c4, The Queen's Gambit](rnbqkbnrppp1pppp83p42PP48PP2PPPPRNBQKBNRb)
 * e4, the Blackmar-Diemer Gambit
 * Nf6, The Chigorin Variation
   *

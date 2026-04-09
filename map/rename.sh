@@ -8,5 +8,4 @@ rename -a 1111 4 *
 rename -a 111 3 *
 rename -a 11 2 *
 
-for i in {1...8}; do rename _ '' *; done
-
+rename -a _ '' *

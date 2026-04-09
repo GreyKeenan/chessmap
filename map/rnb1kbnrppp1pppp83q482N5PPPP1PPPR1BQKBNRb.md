@@ -13,11 +13,11 @@
 
 * Qa5, main line
   \**
-* [Qd8, Valencia Variation](rnbqkbnr_ppp-pppp_--------_--------_--------_--N-----_PPPP-PPP_R-BQKBNR_w)
+* [Qd8, Valencia Variation](rnbqkbnrppp1pppp8882N5PPPP1PPPR1BQKBNRw)
   *
-* [Qd6, Gubinsky-Melts Defense](rnb-kbnr_ppp-pppp_---q----_--------_--------_--N-----_PPPP-PPP_R-BQKBNR_w)
+* [Qd6, Gubinsky-Melts Defense](rnb1kbnrppp1pppp3q4882N5PPPP1PPPR1BQKBNRw)
   \**
-* [Qe5+?](rnb-kbnr_ppp-pppp_--------_----q---_--------_--N-----_PPPP-PPP_R-BQKBNR_w)
+* [Qe5+?](rnb1kbnrppp1pppp84q382N5PPPP1PPPR1BQKBNRw)
 
 <br>
 [rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-)

@@ -14,7 +14,7 @@
 * e5, The Reverse Sicilian
   \**
 * Nf6, The Anglo-Indian Defense
-* [d5, The Anglo-Scandinavian Defense](rnbqkbnr_ppp-pppp_--------_---p----_--P-----_--------_PP-PPPPP_RNBQKBNR_w)
+* [d5, The Anglo-Scandinavian Defense](rnbqkbnrppp1pppp83p42P58PP1PPPPPRNBQKBNRw)
   \**
 * f5, The Anglo-Dutch Defense
   \**

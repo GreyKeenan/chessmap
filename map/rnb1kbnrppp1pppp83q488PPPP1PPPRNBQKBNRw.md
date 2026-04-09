@@ -12,7 +12,7 @@
 > The Classical Scandinavian or Mieses-Kotrc Variation:
   1.e4 d5 2.exd5 Qxd5
 
-* [Nc3, main line](rnb-kbnr_ppp-pppp_--------_---q----_--------_--N-----_PPPP-PPP_R-BQKBNR_b)
+* [Nc3, main line](rnb1kbnrppp1pppp83q482N5PPPP1PPPR1BQKBNRb)
 * Nf3, sideline
   \*\**
 * d4?!

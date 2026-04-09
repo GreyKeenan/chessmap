@@ -1,6 +1,12 @@
+nnoremap -hh :e rnbqkbnr_pppppppp_--------_--------_--------_--------_PPPPPPPP_RNBQKBNR_w.md<enter>
+nmap -hB ornbqkbnr_pppppppp_--------_--------_--------_--------_PPPPPPPP_RNBQKBNR_w.md<c-c>-hTn
+nnoremap -hd }{y}}Po<c-c>
 
 nmap -hA "%p0f.D-htnfyypk-htfb}o> <enter><enter>* <enter><enter><br><c-c>jyyp-htflkI[<c-c>A](<c-c>gJA)<enter><c-c>gg}j$
 nmap -hb o<c-r>%<c-c>0f.D0-htnb
+
+nmap -hl_swap :s/\( w \<bar> b \)/\={' w ':' b ',' b ':' w '}[submatch(1)]/ge<enter>0
+nmap -hl -htbn-hl_swapk0wi[<c-c>A](<c-c>gJA)<c-c>
 
 nnoremap -ht_numerize :s/\s//ge<enter>:s/\./1/ge<enter>
 nnoremap -ht_denumerize :s/1/./ge<enter>:s/\(.\)/\1 /ge<enter>
@@ -18,4 +24,7 @@ nmap -htnb -htnf-htfb
 
 nnoremap -htfl Ihttps://lichess.org/analysis/fromPosition/<c-c>:s/ /_/ge<enter>
 nnoremap -htlf _42x:s/_/ /g<enter>
+
+nmap -hton :s/\s//ge<enter>:s/-/1/ge<enter>-ht_collapse:s/_//ge<enter>
+nmap -hfix 0/](<enter>0"wyi(o<c-r>w<c-c>-hton k0/](<enter>llDgJA)<c-c>j
 

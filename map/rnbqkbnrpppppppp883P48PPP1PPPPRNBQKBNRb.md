@@ -11,15 +11,15 @@
 
 > The Queen's Pawn Game: 1.d4
 
-* [d5, The Closed Game](rnbqkbnr_ppp-pppp_--------_---p----_---P----_--------_PPP-PPPP_RNBQKBNR_w)
+* [d5, The Closed Game](rnbqkbnrppp1pppp83p43P48PPP1PPPPRNBQKBNRw)
 * Nf6, An Indian Defense
 * f5, The Dutch
   \*\**
 * c6, Caro-Kann Transfer
-* [c5, The Old Benoni](rnbqkbnr_pp-ppppp_--------_--p-----_---P----_--------_PPP-PPPP_RNBQKBNR_w)
+* [c5, The Old Benoni](rnbqkbnrpp1ppppp82p53P48PPP1PPPPRNBQKBNRw)
   *
-* [e5?!, The Englund Gambit](rnbqkbnr_pppp-ppp_--------_----p---_---P----_--------_PPP-PPPP_RNBQKBNR_w)
-* [d6, a Pirc transfer](rnbqkbnr_ppp-pppp_---p----_--------_---P----_--------_PPP-PPPP_RNBQKBNR_w)
+* [e5?!, The Englund Gambit](rnbqkbnrpppp1ppp84p33P48PPP1PPPPRNBQKBNRw)
+* [d6, a Pirc transfer](rnbqkbnrppp1pppp3p483P48PPP1PPPPRNBQKBNRw)
 
 <br>
 [rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR_b_KQkq_-)

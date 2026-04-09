@@ -11,11 +11,11 @@
 
 > The Anglo-Scandinavian: 1.c4 d5
 
-* [cxd5!](rnbqkbnr_ppp-pppp_--------_---P----_--------_--------_PP-PPPPP_RNBQKBNR_b)
-* [d4, Queen's Gambit transposition](rnbqkbnr_ppp-pppp_--------_---p----_--PP----_--------_PP--PPPP_RNBQKBNR_b)
+* [cxd5!](rnbqkbnrppp1pppp83P488PP1PPPPPRNBQKBNRb)
+* [d4, Queen's Gambit transposition](rnbqkbnrppp1pppp83p42PP48PP2PPPPRNBQKBNRb)
   \*\**
 * e3
-* [Nf3==, Reti transposition](rnbqkbnr_ppp-pppp_--------_---p----_--P-----_-----N--_PP-PPPPP_RNBQKB-R_b)
+* [Nf3==, Reti transposition](rnbqkbnrppp1pppp83p42P55N2PP1PPPPPRNBQKB1Rb)
   \*\**
 
 <br>

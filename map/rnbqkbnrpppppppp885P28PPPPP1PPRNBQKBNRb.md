@@ -11,9 +11,9 @@
 
 > The Bird: 1.f4
 
-* [d5, The Reverse Dutch](rnbqkbnr_ppp-pppp_--------_---p----_-----P--_--------_PPPPP-PP_RNBQKBNR_w)
+* [d5, The Reverse Dutch](rnbqkbnrppp1pppp83p45P28PPPPP1PPRNBQKBNRw)
 * Nf6
-* [Nh6, The Horsefly Defense](rnbqkb-r_pppppppp_-------n_--------_-----P--_--------_PPPPP-PP_RNBQKBNR_w)
+* [Nh6, The Horsefly Defense](rnbqkb1rpppppppp7n85P28PPPPP1PPRNBQKBNRw)
   \**
 * f5, The Symmetrical Bird
 * e4?!, From's Gambit

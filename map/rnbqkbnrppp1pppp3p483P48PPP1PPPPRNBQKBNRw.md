@@ -12,7 +12,7 @@
 > 1.d4 d6
 
 * e4, Pirc transposition
-* [c4](rnbqkbnr_ppp-pppp_---p----_--------_--PP----_--------_PP--PPPP_RNBQKBNR_b)
+* [c4](rnbqkbnrppp1pppp3p482PP48PP2PPPPRNBQKBNRb)
 * Nf3
 * Nc3
   *

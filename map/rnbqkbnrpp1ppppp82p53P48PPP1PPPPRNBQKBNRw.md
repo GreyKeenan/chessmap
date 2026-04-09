@@ -11,13 +11,13 @@
 
 > The Old Benoni: 1.d4 c5
 
-* [d5!](rnbqkbnr_pp-ppppp_--------_--pP----_--------_--------_PPP-PPPP_RNBQKBNR_b)
-* [dxc5](rnbqkbnr_pp-ppppp_--------_--P-----_--------_--------_PPP-PPPP_RNBQKBNR_b)
+* [d5!](rnbqkbnrpp1ppppp82pP488PPP1PPPPRNBQKBNRb)
+* [dxc5](rnbqkbnrpp1ppppp82P588PPP1PPPPRNBQKBNRb)
 * e3
   \*\**
-* [e4, The Smith-Morra Gambit](rnbqkbnr_pp-ppppp_--------_--p-----_---PP---_--------_PPP--PPP_RNBQKBNR_b)
+* [e4, The Smith-Morra Gambit](rnbqkbnrpp1ppppp82p53PP38PPP2PPPRNBQKBNRb)
   \*\**
-* [c3=](rnbqkbnr_pp-ppppp_--------_--p-----_---P----_--P-----_PP--PPPP_RNBQKBNR_b)
+* [c3=](rnbqkbnrpp1ppppp82p53P42P5PP2PPPPRNBQKBNRb)
 
 <br>
 [rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-)

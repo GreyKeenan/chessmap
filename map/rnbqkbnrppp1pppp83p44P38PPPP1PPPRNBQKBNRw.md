@@ -11,9 +11,9 @@
 
 > The Scandinavian Defense: 1.e4 e5
 
-* [exd5!](rnbqkbnr_ppp-pppp_--------_---P----_--------_--------_PPPP-PPP_RNBQKBNR_b)
-* [e5==, The Little Scandinavian](rnbqkbnr_ppp-pppp_--------_---pP---_--------_--------_PPPP-PPP_RNBQKBNR_b)
-* [d4, The Blackmar-Diemer Gambit](rnbqkbnr_ppp-pppp_--------_---p----_---PP---_--------_PPP--PPP_RNBQKBNR_b)
+* [exd5!](rnbqkbnrppp1pppp83P488PPPP1PPPRNBQKBNRb)
+* [e5==, The Little Scandinavian](rnbqkbnrppp1pppp83pP388PPPP1PPPRNBQKBNRb)
+* [d4, The Blackmar-Diemer Gambit](rnbqkbnrppp1pppp83p43PP38PPP2PPPRNBQKBNRb)
   \*\**
 * Nf3, The Tennison Gambit
 * Nc3, van Geet transposition

@@ -18,7 +18,7 @@
 * e5, The Albin Countergambit
 * c5, The Austrian Defense
 * b5?!, Zillbermint's Gambit
-* [Nc6, The Chigorin Defense](r-bqkbnr_ppp-pppp_--n-----_---p----_--PP----_--------_PP--PPPP_RNBQKBNR_w)
+* [Nc6, The Chigorin Defense](r1bqkbnrppp1pppp2n53p42PP48PP2PPPPRNBQKBNRw)
   \**
 * Nf6
 

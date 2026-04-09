@@ -12,7 +12,7 @@
 > The Blackmar-Diemer Gambit: 1.d4 d5 2.e4
   or: 1.e4 d5 2.d4
 
-* [dxe4!, accepted](rnbqkbnr_ppp-pppp_--------_--------_---Pp---_--------_PPP--PPP_RNBQKBNR_w)
+* [dxe4!, accepted](rnbqkbnrppp1pppp883Pp38PPP2PPPRNBQKBNRw)
 * e3, French transposition
 * c3, Caro-Kann transposition
 * Nc6, Nimzowitsch Defense transposition

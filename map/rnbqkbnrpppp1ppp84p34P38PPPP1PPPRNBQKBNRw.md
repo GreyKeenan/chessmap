@@ -11,7 +11,7 @@
 
 > The Open Game.
 
-* [Nf3, King's Knight Opening](rnbqkbnr_pppp-ppp_--------_----p---_----P---_-----N--_PPPP-PPP_RNBQKB-R_b)
+* [Nf3, King's Knight Opening](rnbqkbnrpppp1ppp84p34P35N2PPPP1PPPRNBQKB1Rb)
 * d4, The Centre Game
   \**
 * Nc3, The Vienna Game
@@ -19,7 +19,7 @@
 * Bc4, The Bishop's Opening
 * Qf3, The Napoleon Attack
 * Qh5, The Parham Attack
-* [a3, Mengarini's Opening](rnbqkbnr_pppp-ppp_--------_----p---_----P---_P-------_-PPP-PPP_RNBQKBNR_b)
+* [a3, Mengarini's Opening](rnbqkbnrpppp1ppp84p34P3P71PPP1PPPRNBQKBNRb)
 * d3, Leonardis Variation
 * b3, Charles's Opening
 * Ke2?, The Bongcloud

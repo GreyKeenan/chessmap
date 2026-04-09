@@ -12,7 +12,7 @@
 > The Birmingham Gambit: 1.b4 c5
 
 * bxc5, accepted
-* [a3, declined](rnbqkbnr_pp-ppppp_--------_--p-----_-P------_P-------_--PPPPPP_RNBQKBNR_b)
+* [a3, declined](rnbqkbnrpp1ppppp82p51P6P72PPPPPPRNBQKBNRb)
 * ...
 
 <br>

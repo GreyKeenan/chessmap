@@ -13,7 +13,7 @@
 
 * Nf6, The Modern Scandinavian
   \**
-* [Qxd5, The Classical Scandinavian or Mieses-Kotrc](rnb-kbnr_ppp-pppp_--------_---q----_--------_--------_PPPP-PPP_RNBQKBNR_w)
+* [Qxd5, The Classical Scandinavian or Mieses-Kotrc](rnb1kbnrppp1pppp83q488PPPP1PPPRNBQKBNRw)
   *
 * c6, The Blackburne-Kloosterboer Gambit
   \**

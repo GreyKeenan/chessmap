@@ -11,7 +11,7 @@
 
 > The King's Knight Opening: 1.e4 e5 2.Nf3
 
-* [Nc6, The Normal Variation](r-bqkbnr_pppp-ppp_--n-----_----p---_----P---_-----N--_PPPP-PPP_RNBQKB-R_w)
+* [Nc6, The Normal Variation](r1bqkbnrpppp1ppp2n54p34P35N2PPPP1PPPRNBQKB1Rw)
 * Nf6, The Russian Game or Petrov's Defense
 * d6, The Philidor Defense
 * d5?!, The Elephant Gambit

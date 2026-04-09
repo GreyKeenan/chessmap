@@ -11,7 +11,7 @@
 
 > The Little Scandinavian: 1.e4 d5 2.e5
 
-* [c5](rnbqkbnr_pp--pppp_--------_--ppP---_--------_--------_PPPP-PPP_RNBQKBNR_w)
+* [c5](rnbqkbnrpp2pppp82ppP388PPPP1PPPRNBQKBNRw)
   *
 * Bf5
 * e6, French transposition

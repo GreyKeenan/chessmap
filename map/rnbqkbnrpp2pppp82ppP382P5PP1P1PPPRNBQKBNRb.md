@@ -12,7 +12,7 @@
 > 1.e4 d5 2.e5 c5 3.c3
 
 * ...
-* [Qa5!?, eppur si muove](rnb-kbnr_pp--pppp_--------_q-ppP---_--------_--P-----_PP-P-PPP_RNBQKBNR_w)
+* [Qa5!?, eppur si muove](rnb1kbnrpp2pppp8q1ppP382P5PP1P1PPPRNBQKBNRw)
   *
 
 <br>

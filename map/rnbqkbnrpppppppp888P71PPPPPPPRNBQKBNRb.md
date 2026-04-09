@@ -11,10 +11,10 @@
 
 > Anderssen's Opening: 1.a3
 
-* [c5, (And. English or Sicilian transfer)](rnbqkbnr_pp-ppppp_--------_--p-----_--------_P-------_-PPPPPPP_RNBQKBNR_w)
+* [c5, (And. English or Sicilian transfer)](rnbqkbnrpp1ppppp82p58P71PPPPPPPRNBQKBNRw)
   \**
-* [e5, (And. King's Pawn)](rnbqkbnr_pppp-ppp_--------_----p---_--------_P-------_-PPPPPPP_RNBQKBNR_w)
-* [d5, (And. Queen's Pawn)](rnbqkbnr_ppp-pppp_--------_---p----_--------_P-------_-PPPPPPP_RNBQKBNR_w)
+* [e5, (And. King's Pawn)](rnbqkbnrpppp1ppp84p38P71PPPPPPPRNBQKBNRw)
+* [d5, (And. Queen's Pawn)](rnbqkbnrppp1pppp83p48P71PPPPPPPRNBQKBNRw)
 * Nf6, (And. Zukertort)
   \**
 * a6, (Symmetrical Anderssen)

@@ -12,7 +12,7 @@
 > The Polish: 1.b4
 
 * ...
-* [c5, The Birmingham Gambit](rnbqkbnr_pp-ppppp_--------_--p-----_-P------_--------_P-PPPPPP_RNBQKBNR_w)
+* [c5, The Birmingham Gambit](rnbqkbnrpp1ppppp82p51P68P1PPPPPPRNBQKBNRw)
 
 <br>
 [rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR_b_KQkq_-)

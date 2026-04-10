@@ -25,3 +25,16 @@
 
 ---
 
+We're solidly in Anglo-Scandinavian territory, now that White has accepted.
+On the surface, these positions has a lot in common with the regular Scandinavian.
+However, the ideas in play beyond the first few moves are quite different.
+Black can't just play this the same way they would play some other Scandi
+and expect a good position.
+
+TODO what differences
+
+	e pawn means we play for e5 more
+	e pawn means white has much stronger center,
+	so we have to go for crazier ideas to disrupt it.
+	Nc3 doesnt block in the c pawn
+

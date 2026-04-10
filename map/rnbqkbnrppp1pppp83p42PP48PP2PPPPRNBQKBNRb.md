@@ -13,9 +13,9 @@
   or: 1.c4 d5 2.d4
 
 * e6, Declined
-* dxc4, Accepted
+* [dxc4, Accepted](rnbqkbnrppp1pppp882pP48PP2PPPPRNBQKBNRw)
 * c6, The Slav Defense
-* e5, The Albin Countergambit
+* [e5, The Albin Countergambit](rnbqkbnrppp2ppp83pp32PP48PP2PPPPRNBQKBNRw)
 * c5, The Austrian Defense
 * b5?!, Zillbermint's Gambit
 * [Nc6, The Chigorin Defense](r1bqkbnrppp1pppp2n53p42PP48PP2PPPPRNBQKBNRw)

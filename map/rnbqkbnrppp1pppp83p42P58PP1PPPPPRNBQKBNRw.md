@@ -45,3 +45,20 @@ This is useful for me since I play the benono as black,
 but 1.c4 players often play 1.c4 against everything,
 and so they are probably familiar with the benoni structure as well.
 
+---
+
+The Anglo-Scandinavian may be a useful tool to un-book some English player,
+but in my opinion it lacks one of the largest strengths of the regular Scandi.
+After 1.e4 d5, White can't really stay in familiar territory
+without making some sort of sacrifice.
+They, realistically, *should* take the pawn and enter the Scandi,
+or at least play the Little Scandinavian and give Black a happy position.
+After 1.c4 d5, however,
+not only is it just slightly worse than the regular Scandinavian,
+but White *also* has the option of transposing
+into other white-favorable setups like the Queen's Gambit.
+To me, the point of playing the Scandi is that
+you near-forcibly pull your opponent into your prep, lest Black equalizes.
+With the Anglo-Scandinavian, however,
+White still has advantageous alternatives.
+

@@ -11,7 +11,7 @@
 
 > A Benoni Defense: 1.d4 Nf6 2.c4 c5
 
-* d5!
+* [d5!](rnbqkb1rpp1ppppp5n22pP42P58PP2PPPPRNBQKBNRb)
 * ...
 
 <br>

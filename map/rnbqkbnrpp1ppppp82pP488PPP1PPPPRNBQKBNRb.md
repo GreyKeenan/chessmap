@@ -14,7 +14,7 @@
 * e6
 * d6
 * g6
-* Nf6
+* [Nf6, Modern Benoni transfer](rnbqkb1rpp1ppppp5n22pP488PPP1PPPPRNBQKBNRw)
   *
 
 <br>

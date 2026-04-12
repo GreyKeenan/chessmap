@@ -24,5 +24,5 @@ nonstandard symbols
 
 	*       my plan
 	**      interested
-	***     gap in plan
-	[*]     only move(s) I have a plan for
+	***     I don't have a plan for this move
+	[*]     I have a plan for this move

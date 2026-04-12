@@ -13,9 +13,12 @@
 
 * [d4!, Indian Defense transposition](rnbqkb1rpppppppp5n282PP48PP2PPPPRNBQKBNRb)
   [\*]
-* Nc3
+* [Nc3](rnbqkb1rpppppppp5n282P52N5PP1PPPPPR1BQKBNRb)
+  [\*]
 * Nf3
 * g3
+* [e3](rnbqkb1rpppppppp5n282P54P3PP1P1PPPRNBQKBNRb)
+  [\*]
 
 <br>
 [rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -](https://lichess.org/analysis/fromPosition/rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-)

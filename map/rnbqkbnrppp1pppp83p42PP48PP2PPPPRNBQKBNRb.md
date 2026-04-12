@@ -20,7 +20,10 @@
 * b5?!, Zillbermint's Gambit
 * [Nc6, The Chigorin Defense](r1bqkbnrppp1pppp2n53p42PP48PP2PPPPRNBQKBNRw)
   \**
-* Nf6
+* Nf6, The Marshall Defense
+  \**
+* a6?!
+  \**
 
 <br>
 [rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -](https://lichess.org/analysis/fromPosition/rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_-)

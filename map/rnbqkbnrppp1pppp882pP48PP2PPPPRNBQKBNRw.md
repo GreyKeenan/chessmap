@@ -14,7 +14,7 @@
 * e4
 * Nf3
 * Nc3
-* e3
+* [e3](rnbqkbnrppp1pppp882pP44P3PP3PPPRNBQKBNRb)
 * Qa4+
 
 <br>

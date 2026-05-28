@@ -11,7 +11,8 @@
 
 > The Old Benoni: 1.d4 c5 2.dxc5
 
-* e6!
+* [e6!](rnbqkbnrpp1p1ppp4p32P588PPP1PPPPRNBQKBNRw)
+  \*
 * Qa5+?
 
 <br>
